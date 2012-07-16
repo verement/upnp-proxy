@@ -60,7 +60,7 @@ host, where the proxy daemon is presumed to be listening.
 Caveat Emptor
 -------------
 
-This is an experimental solution. I better solution would be to fix libupnp to
+This is an experimental solution. A better solution would be to fix libupnp to
 support multihoming properly.
 
 In order to work, the proxy has to discover the original destination IP
